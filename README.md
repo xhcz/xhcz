@@ -10,7 +10,7 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xhcz763@mail.com)
 
 
-#   #### Some of the technologies I have worked with
+##### Some of the technologies I have worked with
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
