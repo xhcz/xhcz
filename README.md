@@ -32,3 +32,177 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
+
+
+
+<!-- 引入 polyfill -->
+
+<style>
+  /* 以下为音乐播放器额外配置 */
+  /* 如果你想要音乐播放器不是很靠底部可以自己设置一下数值 0是靠最底部 */
+  .aplayer .aplayer-body,
+  .aplayer.aplayer-withlist {
+    bottom: 0rem !important;
+  }
+  /*音乐播放器进一步进行隐藏*/
+  /* 需要就加不需要就不用加 */
+  .aplayer.aplayer-fixed.aplayer-narrow .aplayer-body {
+    left: -66px !important;
+  }
+  .aplayer.aplayer-fixed.aplayer-narrow .aplayer-body:hover {
+    left: 0 !important;
+  }
+    /* 去除通知栏 右上角 X */
+    .notify-render .hope-close-button {
+        display: none;
+    }
+</style>
+
+<script src="https://polyfill.alicdn.com/v3/polyfill.min.js?features=String.prototype.replaceAll"></script>
+
+<!--不蒜子计数器-->
+<script defer src="https://busuanzi.9420.ltd/js"></script>
+
+<!-- 引入字体 -->
+<link rel="stylesheet" href="https://npm.elemecdn.com/lxgw-wenkai-webfont@1.1.0/lxgwwenkai-regular.css" />
+
+<style>
+    /* 隐藏底部 */
+    .footer {
+        display: none !important;
+    }
+
+    /* 背景设置 */
+    .hope-ui-dark, .hope-ui-light {
+        background-image: url('https://alist.akttoer.cn/d/web/beijing.jpg?sign=mMEZx5J84bBVSVKSUtMmpqeRBHT5EpNg-HgrRFaQVCY=:0') !important;
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: center;
+    }
+    
+    /*主列表白天模式透明*/
+    .obj-box.hope-stack.hope-c-dhzjXW.hope-c-PJLV.hope-c-PJLV-igScBhH-css {
+        backdrop-filter: blur(10px); /* 毛玻璃效果的强度 */
+        -webkit-backdrop-filter: blur(10px); /* 为 Safari 浏览器添加兼容性 */
+        background-color: rgba(255, 255, 255, 0.3) !important;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* 阴影效果 */
+    }
+    /*主列表夜间模式透明*/
+    .obj-box.hope-stack.hope-c-dhzjXW.hope-c-PJLV.hope-c-PJLV-iigjoxS-css {
+        backdrop-filter: blur(10px); /* 毛玻璃效果的强度 */
+        -webkit-backdrop-filter: blur(10px); /* 为 Safari 浏览器添加兼容性 */
+        background-color: rgba(0, 0, 0, 0.3) !important;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* 阴影效果 */
+    }
+    /*readme白天模式透明*/
+    .hope-c-PJLV.hope-c-PJLV-ikSuVsl-css {
+        backdrop-filter: blur(10px); /* 毛玻璃效果的强度 */
+        -webkit-backdrop-filter: blur(10px); /* 为 Safari 浏览器添加兼容性 */
+        background-color: rgba(255, 255, 255, 0.3) !important;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* 阴影效果 */
+    }
+    /*readme夜间模式透明*/
+    .hope-c-PJLV.hope-c-PJLV-iiuDLME-css {
+        backdrop-filter: blur(10px); /* 毛玻璃效果的强度 */
+        -webkit-backdrop-filter: blur(10px); /* 为 Safari 浏览器添加兼容性 */
+        background-color: rgba(0, 0, 0, 0.3) !important;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* 阴影效果 */
+    }
+
+    /*顶部*/
+    #root > .header {
+        backdrop-filter: blur(10px); /* 毛玻璃效果的强度 */
+        -webkit-backdrop-filter: blur(10px); /* 为 Safari 浏览器添加兼容性 */
+        background: rgba(255, 255, 255, 0); /* 透明背景色 */
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* 阴影效果 */
+    }
+
+    /*导航条*/
+    /*白天模式*/
+    .hope-ui-light .body > .nav {
+        background-color: rgba(255, 255, 255, 0.3);
+        border-radius: var(--hope-radii-xl);
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* 阴影效果 */
+    }
+    /*夜间模式*/
+    .hope-ui-dark .body > .nav {
+        background-color: rgba(0, 0, 0, 0.3);
+        border-radius: var(--hope-radii-xl);
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* 阴影效果 */
+    }
+   
+    /*隐藏导航条遮罩*/
+    .body > .nav::after {
+        display: none;
+    }
+
+    /*右上视图切换菜单*/
+    /*白天模式*/
+    .hope-ui-light .hope-c-PJLV-iSMXDf-css {
+        backdrop-filter: blur(10px); /* 毛玻璃效果的强度 */
+        -webkit-backdrop-filter: blur(10px); /* 为 Safari 浏览器添加兼容性 */
+        background: rgba(255, 255, 255, 0.3); /* 透明背景色 */
+        border-radius: 10px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* 阴影效果 */
+    }
+    /*夜间模式*/
+    .hope-ui-dark .hope-c-PJLV-iSMXDf-css {
+        backdrop-filter: blur(10px); /* 毛玻璃效果的强度 */
+        -webkit-backdrop-filter: blur(10px); /* 为 Safari 浏览器添加兼容性 */
+        background: rgba(0, 0, 0, 0.3); /* 透明背景色 */
+        border-radius: var(--hope-radii-xl);
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* 阴影效果 */
+    }
+
+    /*右下角侧边栏按钮透明 第一个是白天 第二个是夜间*/
+    .hope-ui-light .hope-c-PJLV-ijgzmFG-css {
+        backdrop-filter: blur(10px); /* 毛玻璃效果的强度 */
+        -webkit-backdrop-filter: blur(10px); /* 为 Safari 浏览器添加兼容性 */
+        background-color: rgba(255, 255, 255, 0.3) !important;
+    }
+    .hope-ui-dark .hope-c-PJLV-ijgzmFG-css {
+        backdrop-filter: blur(10px); /* 毛玻璃效果的强度 */
+        -webkit-backdrop-filter: blur(10px); /* 为 Safari 浏览器添加兼容性 */
+        background-color: rgba(0, 0, 0, 0.5) !important;
+    }
+    /*白天模式代码块透明*/
+    .hope-ui-light pre {
+        background-color: rgba(255, 255, 255, 0.1) !important;
+    }
+    /*夜间模式代码块透明*/
+    .hope-ui-dark pre {
+<!--音乐播放器所用的文件-->
+<!-- require APlayer -->
+<link rel="stylesheet" href="https://npm.elemecdn.com/aplayer@1.10.1/dist/APlayer.min.css">
+<script src="https://npm.elemecdn.com/aplayer@1.10.1/dist/APlayer.min.js"></script>
+<!-- require MetingJS -->
+<script src="https://npm.elemecdn.com/meting2@0.0.1/js/Meting.min.js
+
+    /*底部CSS，.App .table这三个一起的*/
+    dibu {
+        border-top: 0px;
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        margin: 0px;
+        padding: 0px;
+    }
+    .App {
+        min-height: 85vh;
+    }
+    .table {
+        margin: auto;
+    }
+
+  
+    /*全局字体*/
+    * {
+        font-family: LXGW WenKai;
+    }
+    * {
+        font-weight: bold;
+    }
+    body {
+        font-family: LXGW WenKai;
+    }
+</style>
