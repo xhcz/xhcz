@@ -1,13 +1,4 @@
-<style type="text/css">
-  body{
-    background: url("https://alist.akttoer.cn/d/xhcz763/20250214_215413.jpg?sign=VcAgeRVSuOyFuBd-AqNWcReiv1CTf8pAyJk420sMFDk=:0") no-repeat center center fixed;
-        -webkit-background-size: cover;
-        -o-background-size: cover;                
-        background-size: cover;
-  }
-  </style>
-
-[![Header](https://alist.akttoer.cn/d/xhcz763/931b689a2951a4dd1b532475ccc3faec.jpeg?sign=Z3hnbiNJ9GNnfVESyloHyPVqIPjxEzQEg-5YrnvE-40=:0)](http://www.coolapk.com/u/21190140)
+[![Header](https://alist.akttoer.cn/d/xhcz763/20250214_220257.jpg?sign=B71HD0q8TzUw2pWjqwF2lXhkdXiGEjmYsQKuMhl6akg=:0)](http://www.coolapk.com/u/21190140)
 
 ##### 你好👋陌生人，我是许仙xhcz :
 
