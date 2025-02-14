@@ -10,7 +10,7 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xhcz763@mail.com)
 
 
-##### Some of the technologies I have worked with
+##### 下面是我曾使用过的一些技术/Some of the technologies I have worked with
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
@@ -23,7 +23,7 @@
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
 ![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
 
-##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
+##### 我曾经用一行 JavaScript 解决了世界上最古老的问题/I once solved the world's oldest question with a single line of JavaScript
 <!-- wi*quL3fcV -->
 
 ```javascript
