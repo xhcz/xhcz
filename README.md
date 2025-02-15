@@ -31,6 +31,14 @@
 - **C4D**: ⭐⭐⭐⭐ (80%)
 - **Rhinoceros 3D**: ⭐⭐⭐⭐ (80%)
 - **[CV Programming](# "面向 Ctrl-C Ctrl-V 编程")**: ⭐⭐⭐⭐⭐ (100%)
+
+---
+
+##### 友情链接/Friendship Links
+- [Akttoer 的 GitHub 主页](https://github.com/Akttoer)
+- [小胖ya_ 的哔哩哔哩主页](https://b23.tv/G5BNqdT)
+- [MCSFS 的哔哩哔哩主页](https://b23.tv/ZesgtTm)
+
 ---
 
 ##### 每日一句/Daily Quote
