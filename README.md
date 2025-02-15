@@ -30,7 +30,7 @@
 - **Python**: ⭐⭐⭐ (50%)
 - **C4D**: ⭐⭐⭐⭐ (70%)
 - **Rhinoceros 3D**: ⭐⭐⭐⭐ (80%)
-- **[CV Programming](" " "面向 Ctrl-C Ctrl-V 编程")**: ⭐⭐⭐⭐⭐ (100%)
+- **[CV Programming](# "面向 Ctrl-C Ctrl-V 编程")**: ⭐⭐⭐⭐⭐ (100%)
 ---
 
 ##### 每日一句/Daily Quote
