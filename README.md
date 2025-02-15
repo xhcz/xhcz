@@ -1,36 +1,37 @@
 [![Header](https://alist.akttoer.cn/d/xhcz763/20250214_220257.jpg?sign=B71HD0q8TzUw2pWjqwF2lXhkdXiGEjmYsQKuMhl6akg=:0)](http://www.coolapk.com/u/21190140)
 
 ##### 你好👋陌生人，我是许仙xhcz :
+---
 
-- 🎓真心换真心，初中学历😅。Sincere for sincere, junior high school education😅
-- 关于我：乳臭未干的毛头小子一个，没事喜欢瞎折腾。懂得一点基础的python、C4D、Rhinoceros 3D 
-- :联系方式: 你可以通过下面的链接或者是简介上方简介的链接联系我。 You can contact me through the link below or the link in the introduction above the introduction.
+- 🎓 真心换真心，初中学历😅。Sincere for sincere, junior high school education😅
+- 关于我：乳臭未干的毛头小子一个，没事喜欢瞎折腾。懂得一点基础的 Python、C4D、Rhinoceros 3D
+- 📫 联系方式: 你可以通过下面的链接或者是简介上方简介的链接联系我。 You can contact me through the link below or the link in the introduction above the introduction.
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xhcz763)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xhcz763@mail.com)
 
+---
 
-##### 下面是我曾使用过的一些技术/Some of the technologies I have worked with
+##### GitHub 统计/GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xhcz&show_icons=true&theme=radical)
 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
-![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
-![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
+---
 
-##### 我曾经用一行 JavaScript 解决了世界上最古老的问题/I once solved the world's oldest question with a single line of JavaScript
-<!-- wi*quL3fcV -->
+##### 技术栈/Technologies
+| 类别/Category | 技术/Technologies |
+| ------------- | ----------------- |
+| 前端/Frontend | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) |
+| 后端/Backend  | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) |
+| 工具/Tools    | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
-```javascript
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
+---
 
->>> [ '🐔', '🐣', '🐥', '🥚' ]
-```
+##### 技能进度/Skill Progress
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![90%](https://progress-bar.dev/90?title=Python)
+![C4D](https://img.shields.io/badge/-C4D-000000?style=flat-square&logo=cinema-4d&logoColor=white) ![70%](https://progress-bar.dev/70?title=C4D)
+![Rhinoceros 3D](https://img.shields.io/badge/-Rhinoceros_3D-801818?style=flat-square&logo=rhinoceros&logoColor=white) ![80%](https://progress-bar.dev/80?title=Rhinoceros%203D)
 
+---
 
+##### 每日一句/Daily Quote
+![Daily Quote](https://inspirobot.me/api?generate=true)
