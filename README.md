@@ -27,11 +27,14 @@
 ---
 
 ##### 技能进度/Skill Progress
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![90%](https://progress-bar.dev/90?title=Python)
-![C4D](https://img.shields.io/badge/-C4D-000000?style=flat-square&logo=cinema-4d&logoColor=white) ![70%](https://progress-bar.dev/70?title=C4D)
-![Rhinoceros 3D](https://img.shields.io/badge/-Rhinoceros_3D-801818?style=flat-square&logo=rhinoceros&logoColor=white) ![80%](https://progress-bar.dev/80?title=Rhinoceros%203D)
-
+- **Python**: ⭐⭐⭐ (50%)
+- **C4D**: ⭐⭐⭐⭐ (70%)
+- **Rhinoceros 3D**: ⭐⭐⭐⭐ (80%)
+- **[CV Programming](" " "面向 Ctrl-C Ctrl-V 编程")**: ⭐⭐⭐⭐⭐ (100%)
 ---
 
 ##### 每日一句/Daily Quote
-![Daily Quote](https://inspirobot.me/api?generate=true)
+> "代码写得好，bug 少不了。"
+> "编程就像谈恋爱：开始时充满激情，后来全是 bug。"
+> "程序员最怕的噩梦：需求改了，代码没保存，服务器宕机了。"
+> —— 许仙xhcz
