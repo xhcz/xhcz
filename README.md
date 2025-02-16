@@ -44,6 +44,14 @@
 ---
 
 ##### 每日一句/Daily Quote
+> ```python 
+> from time import sleep
+>
+> input(">_请输入你的问题") 
+> print("思考中") sleep(3)
+> print("服务器繁忙，请稍后再试。")
+> ```
+
 > "代码写得好，bug 少不了。"
 > 
 > "编程就像谈恋爱：开始时充满激情，后来全是 bug。"
@@ -52,12 +60,3 @@
 > 
 > —— 许仙xhcz
 
-
-
-> ```python 
-> from time import sleep
->
-> input(">_请输入你的问题") 
-> print("思考中") sleep(3)
-> print("服务器繁忙，请稍后再试。")
-> ```
