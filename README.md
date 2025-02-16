@@ -41,7 +41,7 @@
 - [Akttoer 的 GitHub 主页](https://github.com/Akttoer)
 - [小胖ya_ 的哔哩哔哩主页](https://b23.tv/G5BNqdT)
 - [MCSFS 的哔哩哔哩主页](https://b23.tv/ZesgtTm)
-- [雨云-新一代的云服务提供商](https://www.rainyun.com/xhczFREE_?s=github)
+- [雨云-新一代的云服务提供商"优惠码(送五折券)：xhczFREE"](https://www.rainyun.com/xhczFREE_?s=github)
 ---
 
 ##### 每日一句/Daily Quote
