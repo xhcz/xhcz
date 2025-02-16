@@ -28,6 +28,7 @@
 
 ##### 技能进度/Skill Progress
 - **Python**: ⭐⭐⭐⭐⭐ (50%)
+- **java&C++**: Login.(0%)
 - **C4D**: ⭐⭐⭐⭐ (80%)
 - **Rhinoceros 3D**: ⭐⭐⭐⭐ (80%)
 - **[CV Programming](# "面向 Ctrl-C Ctrl-V 编程")**: ⭐⭐⭐⭐⭐ (100%)
