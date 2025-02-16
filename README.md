@@ -54,9 +54,9 @@
 
 
 
-```python 
-from time import sleep
-
-input(">_请输入你的问题") print("思考中") sleep(3)
-print("服务器繁忙，请稍后再试。")
-```
+> ```python 
+> from time import sleep
+>
+> input(">_请输入你的问题") print("思考中") sleep(3)
+> print("服务器繁忙，请稍后再试。")
+> ```
