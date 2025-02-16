@@ -27,10 +27,12 @@
 ---
 
 ##### 技能进度/Skill Progress
-- **Python**: ⭐⭐⭐ (50%)
+- **Python**: ⭐⭐⭐⭐⭐ (50%)
 - **C4D**: ⭐⭐⭐⭐ (80%)
 - **Rhinoceros 3D**: ⭐⭐⭐⭐ (80%)
 - **[CV Programming](# "面向 Ctrl-C Ctrl-V 编程")**: ⭐⭐⭐⭐⭐ (100%)
+- **Markdown**:⭐⭐⭐⭐⭐(100%)
+- **Docker**:⭐⭐⭐⭐(40%)
 
 ---
 
@@ -49,3 +51,12 @@
 > "程序员最怕的噩梦：需求改了，代码没保存，服务器宕机了。"
 > 
 > —— 许仙xhcz
+
+
+
+```python 
+from time import sleep
+
+input(">_请输入你的问题") print("思考中") sleep(3)
+print("服务器繁忙，请稍后再试。")
+```
