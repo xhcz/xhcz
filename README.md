@@ -42,6 +42,7 @@
 - [小胖ya_ 的哔哩哔哩主页](https://b23.tv/G5BNqdT)
 - [MCSFS 的哔哩哔哩主页](https://b23.tv/ZesgtTm)
 - [雨云-新一代的云服务提供商"优惠码(送五折券)：xhczFREE"](https://www.rainyun.com/xhczFREE_?s=github)
+- [AutoDL 算力云](https://www.autodl.com/home)
 ---
 
 ##### 每日一句/Daily Quote
