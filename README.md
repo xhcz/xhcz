@@ -1,4 +1,14 @@
 [![Header](https://github.com/xhcz/xhcz/blob/main/20250214_220257.jpg)](http://www.coolapk.com/u/21190140)
+##### 寄语/Message：
+"原你的过去如同秋日落叶一样，沉淀着岁月静美"
+"原你的现在如清晨的阳光一样，温暖而充满希望"
+"愿你的未来如同星辰大海一样，璀璨而浩瀚无垠"
+"愿我们都能追寻到心中的诗篇，抵达梦想的远方"
+>"原你的过去如同秋日落叶一样，沉淀着岁月静美"
+>"原你的现在如清晨的阳光一样，温暖而充满希望"
+>"愿你的未来如同星辰大海一样，璀璨而浩瀚无垠"
+>"愿我们都能追寻到心中的诗篇，抵达梦想的远方"
+
 
 ##### 你好👋陌生人，我是许仙xhcz / 👋Hello, stranger. I'm (xǔ xiān)xhcz :
 
@@ -17,7 +27,7 @@
     - 你可以通过下面的链接和上方简介的链接联系我。
     -  You can contact me through the link below and the link in the profile above.
 
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xhcz763)
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/homeforxhcz763)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xhcz763@mail.com)
 ###### `Although you can feel that almost all my entries are in English, but this is actually an illusion, all rely on the translator to complete, so if there is a language defect,please forgive me.`
 
