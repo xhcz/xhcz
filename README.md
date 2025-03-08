@@ -4,10 +4,13 @@
 "原你的现在如清晨的阳光一样，温暖而充满希望"
 "愿你的未来如同星辰大海一样，璀璨而浩瀚无垠"
 "愿我们都能追寻到心中的诗篇，抵达梦想的远方"
->"原你的过去如同秋日落叶一样，沉淀着岁月静美"
->"原你的现在如清晨的阳光一样，温暖而充满希望"
->"愿你的未来如同星辰大海一样，璀璨而浩瀚无垠"
->"愿我们都能追寻到心中的诗篇，抵达梦想的远方"
+>Your past is like autumn leaves, settling the beauty of time
+
+>Your present is like the morning sunshine, warm and full of hope
+
+>May your future be as brilliant and boundless as the stars and the sea
+
+>May we all be able to pursue the poetry in our hearts and reach the distant dreams
 
 
 ##### 你好👋陌生人，我是许仙xhcz / 👋Hello, stranger. I'm (xǔ xiān)xhcz :
