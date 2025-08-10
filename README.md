@@ -60,24 +60,45 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🛠️ 技术栈 / Technologies</h3>
+      <!-- 修正：这里必须使用纯HTML表格和<img>标签来确保徽章正常显示 -->
       <table>
-        <tr><th>类别/Category</th><th>技术/Technologies</th></tr>
-        <tr><td>前端/Frontend</td><td>![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)</td></tr>
-        <tr><td>后端/Backend</td><td>![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)</td></tr>
-        <tr><td>工具/Tools</td><td>![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)</td></tr>
+        <tr>
+          <th>类别/Category</th>
+          <th>技术/Technologies</th>
+        </tr>
+        <tr>
+          <td>前端/Frontend</td>
+          <td>
+            <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React"> 
+            <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery">
+          </td>
+        </tr>
+        <tr>
+          <td>后端/Backend</td>
+          <td>
+            <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+            <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring">
+          </td>
+        </tr>
+        <tr>
+          <td>工具/Tools</td>
+          <td>
+            <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+            <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+          </td>
+        </tr>
       </table>
     </td>
     <td width="50%" valign="top">
       <h3>🚀 技能进度 / Skill Progress</h3>
-      <ul>
-        <li><b>Python</b>: ⭐⭐⭐⭐⭐ (50%)</li>
-        <li><b>java & C++</b>: Login.(0%)</li>
-        <li><b>C4D</b>: ⭐⭐⭐⭐ (80%)</li>
-        <li><b>Rhinoceros 3D</b>: ⭐⭐⭐⭐ (80%)</li>
-        <li><b><a href="# " title="面向 Ctrl-C Ctrl-V 编程 / Ctrl-C and Ctrl-V orient programming">CV 编程 / CV Programming</a></b>: ⭐⭐⭐⭐⭐ (500%)</li>
-        <li><b>Markdown</b>:⭐⭐⭐⭐⭐(85%)</li>
-        <li><b>Docker</b>:⭐⭐⭐⭐(40%)</li>
-      </ul>
+      <!-- 这里的Markdown列表可以正常工作 -->
+      - **Python**: ⭐⭐⭐⭐⭐ (50%)
+      <br>- **java & C++**: Login.(0%)
+      <br>- **C4D**: ⭐⭐⭐⭐ (80%)
+      <br>- **Rhinoceros 3D**: ⭐⭐⭐⭐ (80%)
+      <br>- **[CV 编程 / CV Programming](# "面向 Ctrl-C Ctrl-V 编程 / Ctrl-C and Ctrl-V orient programming")**: ⭐⭐⭐⭐⭐ (500%)
+      <br>- **Markdown**:⭐⭐⭐⭐⭐(85%)
+      <br>- **Docker**:⭐⭐⭐⭐(40%)
     </td>
   </tr>
 </table>
@@ -95,4 +116,3 @@
 <h6><p align="center" style="font-size: 6px; font-weight: bold;">
   🖐️🤪🖐️
 </p><h6>
-
