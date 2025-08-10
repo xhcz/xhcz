@@ -1,5 +1,5 @@
 [![Header](https://github.com/xhcz/xhcz/blob/main/20250214_220257.jpg)](http://www.coolapk.com/u/21190140)
-##### 寄语/Message：
+
 <table>
 <tr>
 <td width="60%">
@@ -14,8 +14,8 @@
 
 </td>
 <td>
-
-[我的GitHub 统计/ Mind GitHub Stats](https://github-readme-stats.vercel.app/api?username=xhcz&show_icons=true&theme=radical)
+我的GitHub 统计/ Mind GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xhcz&show_icons=true&theme=radical)
 
 </td>
 </tr>
