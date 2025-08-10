@@ -39,8 +39,8 @@
 
 ### 📫 联系方式 / Contact information
 
-- 你可以通过下面的链接和上方简介的链接联系我。
-- You can contact me through the link below and the link in the profile above.
+- 你可以通过下面的链接联系我。
+- You can contact me through the link below.
 
 <p align="left">
   <a href="https://t.me/xhcz0763" target="_blank"><img src="https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
@@ -102,17 +102,3 @@
     </td>
   </tr>
 </table>
-
----
-
-<br>
-
-<h6><p align="center" style="font-size: 6px; font-weight: bold;">
-  ↓↓↓↓↓ Evil-Neuro ↓↓↓↓↓
-</p><h6>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7d87eb2a-cfa0-40fe-aead-6409a1dc10ec" width="100%">
-</p>
-<h6><p align="center" style="font-size: 6px; font-weight: bold;">
-  🖐️🤪🖐️
-</p><h6>
