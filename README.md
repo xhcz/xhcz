@@ -1,13 +1,25 @@
 [![Header](https://github.com/xhcz/xhcz/blob/main/20250214_220257.jpg)](http://www.coolapk.com/u/21190140)
 ##### 寄语/Message：
->Your past is like autumn leaves, settling the beauty of time
->
->Your present is like the morning sunshine, warm and full of hope
->
->May your future be as brilliant and boundless as the stars and the sea
->
->May we all be able to pursue the poetry in our hearts and reach the distant dreams
+<table>
+<tr>
+<td width="60%">
 
+> Your past is like autumn leaves, settling the beauty of time
+>
+> Your present is like the morning sunshine, warm and full of hope
+>
+> May your future be as brilliant and boundless as the stars and the sea
+>
+> May we all be able to pursue the poetry in our hearts and reach the distant dreams
+
+</td>
+<td>
+
+![我的GitHub 统计/ Mind GitHub Stats](https://github-readme-stats.vercel.app/api?username=xhcz&show_icons=true&theme=radical)
+
+</td>
+</tr>
+</table>
 
 ##### 你好👋陌生人，我是许仙xhcz / 👋Hello, stranger. I'm (xǔ xiān)xhcz :
 
@@ -30,9 +42,6 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xhcz763@mail.com)
 ###### `Although you can feel that almost all my entries are in English, but this is actually an illusion, all rely on the translator to complete, so if there is a language defect,please forgive me.`
 
----
-#### 我的GitHub 统计/ Mind GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xhcz&show_icons=true&theme=radical)
 ---
 
 ### 技术栈/Technologies
