@@ -15,7 +15,7 @@
 </td>
 <td>
 
-![我的GitHub 统计/ Mind GitHub Stats](https://github-readme-stats.vercel.app/api?username=xhcz&show_icons=true&theme=radical)
+[我的GitHub 统计/ Mind GitHub Stats](https://github-readme-stats.vercel.app/api?username=xhcz&show_icons=true&theme=radical)
 
 </td>
 </tr>
