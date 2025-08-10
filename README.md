@@ -1,13 +1,5 @@
 [![Header](https://github.com/xhcz/xhcz/blob/main/20250214_220257.jpg)](http://www.coolapk.com/u/21190140)
 ##### 寄语/Message：
-"原你的过去如同秋日落叶一样，沉淀着岁月静美"
-
-"原你的现在如清晨的阳光一样，温暖而充满希望"
-
-"愿你的未来如同星辰大海一样，璀璨而浩瀚无垠"
-
-"愿我们都能追寻到心中的诗篇，抵达梦想的远方"
-
 >Your past is like autumn leaves, settling the beauty of time
 >
 >Your present is like the morning sunshine, warm and full of hope
@@ -34,7 +26,7 @@
     - 你可以通过下面的链接和上方简介的链接联系我。
     -  You can contact me through the link below and the link in the profile above.
 
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/homeforxhcz763)
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xhcz0763)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xhcz763@mail.com)
 ###### `Although you can feel that almost all my entries are in English, but this is actually an illusion, all rely on the translator to complete, so if there is a language defect,please forgive me.`
 
@@ -61,35 +53,9 @@
 - **[CV 编程 / CV Programming](# "面向 Ctrl-C Ctrl-V 编程 / Ctrl-C and Ctrl-V orient programming")**: ⭐⭐⭐⭐⭐ (500%)
 - **Markdown**:⭐⭐⭐⭐⭐(85%)
 - **Docker**:⭐⭐⭐⭐(40%)
-
+  
 ***
 
-# 友情链接/Friendship Links
-- # [Akttoer 的 GitHub 主页*](https://github.com/Akttoer)
-- # [小胖ya_ 的哔哩哔哩主页](https://b23.tv/G5BNqdT)
-- # [MCSFS 的哔哩哔哩主页](https://b23.tv/ZesgtTm)
-   - ## [雨云-新一代的云服务提供商"优惠码(送五折券)：xhczFREE"](https://www.rainyun.com/xhczFREE_?s=github)
-   - ## [AutoDL 算力云](https://www.autodl.com/home)
-
-***
-##### 每日一句/Daily Quote
->> ```python 
->> from time import sleep
->>
->> input(">_请输入你的问题") 
->> print("思考中") sleep(3)
->> print("服务器繁忙，请稍后再试。")
->> #来自我的朋友Akttoer*☝️/From my friend Akttoer*☝️.
->> ```
-
-> "代码写得好，bug 少不了。"
-> 
-> "编程就像谈恋爱：开始时充满激情，后来全是 bug。"
-> 
-> "程序员最怕的噩梦：需求改了，代码没保存，服务器宕机了。"
-> 
-> —— 许仙xhcz
----
 <h6><p align="center" style="font-size: 6px; font-weight: bold;">
   ↓↓↓↓↓ Evil-Neuro ↓↓↓↓↓
 </p><h6>
