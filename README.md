@@ -41,6 +41,8 @@
     -  You can contact me through the link below and the link in the profile above.
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xhcz0763)
+[![WhatsApp](https://img.shields.io/badge/-WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/MAZVJ4PYVWXTC1)
+[![Line](https://img.shields.io/badge/-LINE-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/nyBRr8Gz7J)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xhcz763@mail.com)
 ###### `Although you can feel that almost all my entries are in English, but this is actually an illusion, all rely on the translator to complete, so if there is a language defect,please forgive me.`
 
