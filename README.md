@@ -60,7 +60,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🛠️ 技术栈 / Technologies</h3>
-      <!-- 修正：这里必须使用纯HTML表格和<img>标签来确保徽章正常显示 -->
+      <!-- 左列：使用纯HTML确保徽章正常显示 -->
       <table>
         <tr>
           <th>类别/Category</th>
@@ -91,14 +91,16 @@
     </td>
     <td width="50%" valign="top">
       <h3>🚀 技能进度 / Skill Progress</h3>
-      <!-- 这里的Markdown列表可以正常工作 -->
-      - **Python**: ⭐⭐⭐⭐⭐ (50%)
-      <br>- **java & C++**: Login.(0%)
-      <br>- **C4D**: ⭐⭐⭐⭐ (80%)
-      <br>- **Rhinoceros 3D**: ⭐⭐⭐⭐ (80%)
-      <br>- **[CV 编程 / CV Programming](# "面向 Ctrl-C Ctrl-V 编程 / Ctrl-C and Ctrl-V orient programming")**: ⭐⭐⭐⭐⭐ (500%)
-      <br>- **Markdown**:⭐⭐⭐⭐⭐(85%)
-      <br>- **Docker**:⭐⭐⭐⭐(40%)
+      <!-- 右列：使用<br>换行，完美还原原始的紧凑布局和格式 -->
+      <b>Python</b>: ⭐⭐⭐⭐⭐ (50%)<br>
+      <b>java & C++</b>: Login.(0%)<br>
+      <b>C4D</b>: ⭐⭐⭐⭐ (80%)<br>
+      <b>Rhinoceros 3D</b>: ⭐⭐⭐⭐ (80%)<br>
+      <b><a href="#" title="面向 Ctrl-C Ctrl-V 编程 / Ctrl-C and Ctrl-V orient programming">CV 编程 / CV Programming</a></b>: ⭐⭐⭐⭐⭐ (500%)<br>
+      <b>Markdown</b>: ⭐⭐⭐⭐⭐ (85%)<br>
+      <b>Docker</b>: ⭐⭐⭐⭐ (40%)
     </td>
   </tr>
 </table>
+
+---
