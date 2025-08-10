@@ -44,6 +44,9 @@
 [![WhatsApp](https://img.shields.io/badge/-WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/MAZVJ4PYVWXTC1)
 [![Line](https://img.shields.io/badge/-LINE-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/nyBRr8Gz7J)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xhcz763@mail.com)
+[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/xhcz763)
+[![Discord](https://img.shields.io/badge/-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/xhcz763)
+
 ###### `Although you can feel that almost all my entries are in English, but this is actually an illusion, all rely on the translator to complete, so if there is a language defect,please forgive me.`
 
 ---
