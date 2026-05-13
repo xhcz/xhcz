@@ -1,37 +1,41 @@
 [![Header](https://github.com/xhcz/xhcz/blob/main/20250214_220257.jpg)](http://www.coolapk.com/u/21190140)
 
-<table>
-<tr>
-<td width="60%">
-
-> 你的过去，像秋日落叶，沉淀了岁月的美好
->
-> 你的现在，像清晨阳光，温暖而充满希望
->
-> 愿你的未来，如星辰大海，璀璨而无垠
->
-> 愿我们，都能追寻心中的诗意，抵达梦的远方
-
-</td>
-<td>
-
-我的GitHub 统计/ Mind GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xhcz&show_icons=true&theme=radical)
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <blockquote>
+        <p>你的过去，像秋日落叶，沉淀了岁月的美好<br>
+        你的现在，像清晨阳光，温暖而充满希望<br>
+        愿你的未来，如星辰大海，璀璨而无垠<br>
+        愿我们，都能追寻心中的诗意，抵达梦的远方</p>
+      </blockquote>
+    </td>
+    <td width="40%" valign="top">
+      <p align="center">
+        <strong>📊 我的 GitHub 统计 / GitHub Stats</strong><br>
+        <img src="https://github-readme-stats.vercel.app/api?username=xhcz&show_icons=true&theme=radical" alt="GitHub Stats">
+      </p>
+    </td>
+  </tr>
 </table>
 
-### 你好👋陌生人，我是许仙xhcz / 👋Hello, stranger. I'm (xǔ xiān)xhcz
+---
 
-- 🌎 **语言使用情况/Use of language** ：
-   - 土生土长的中国人🇨🇳，而且因为种种原因没呢读完高中，所以会对于除中文以外的语言一脸懵😅。
-   - Born and raised in China, for various reasons, failed to finish high school, so they will be confused about words other than Chinese😅.
-- 🎓 **学历/Educational background**：
-    - 真心换真心，初中学历😅。
-    - Sincere for sincere, junior high school education😅
-- 🤔 **关于我/About me**：
+### 👋 你好，陌生人！我是许仙 (xhcz)
+
+- 🌎 **语言使用情况**  
+  土生土长的中国人🇨🇳，因为种种原因没读完高中，所以除中文以外的语言基本一脸懵 😅  
+  *Native Chinese, didn't finish high school, so non-Chinese languages make me confused 😅*
+
+- 🎓 **学历**  
+  真心换真心，初中学历 😅  
+  *Sincere for sincere — junior high school education only 😅*
+
+- 💬 如果你愿意和我交流，欢迎通过邮箱或社交平台联系（见头像链接）。
+
+---
+
+[![Footer](https://img.shields.io/badge/Keep%20Going-%E5%8A%A0%E6%B2%B9-blue?style=for-the-badge)](http://www.coolapk.com/u/21190140)- 🤔 **关于我/About me**：
     - ~~乳臭未干的毛头小子一个~~ 没事喜欢瞎折腾。懂得一点基础的 Python,对于java 和c++只能分辨但是无法读写😫。
     -  ~~A wet behind the ears young boy~~ I like to mess around when I'm free. Know a little basic Python, for Java and C + + can only distinguish but can not read and write😫.
 
