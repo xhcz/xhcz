@@ -1,4 +1,4 @@
-[![Header](https://github.com/xhcz/xhcz/blob/main/20250214_220257.jpg)](http://www.coolapk.com/u/21190140)
+[![Header](https://github.com/xhcz/xhcz/blob/main/Screenshot_2026-05-14-04-58-19-01_tv.danmaku.bili.png)](http://www.coolapk.com/u/21190140)
 
 ## 👋 你好，我是许仙 (xhcz)
 ### 🧑‍💻 关于我
